@@ -29,6 +29,7 @@ body {
 /* Make the logo the same size as the navbar */
 .logoWrapper {
   width: auto;
+  height: auto;
   display: inline-block;
   vertical-align: middle;
   max-width: 240px;
